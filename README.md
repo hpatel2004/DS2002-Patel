@@ -1,4 +1,6 @@
 # DS2002-Patel
-DS2002 coursework and notebooks.
+
+Name: Your Name
+Course: DS2002 — Data Science Systems
 
 This repository contains my notebooks and assignments for DS2002.

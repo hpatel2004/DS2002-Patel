@@ -1,0 +1,3 @@
+What is GitHub? Why are we using it in this course?
+
+GitHub is a centralized repository that allows for consistent updates to a codebase from multiple users. It supports local development and has the capability to handle merge conflicts from different versions of a file. We are using it in this course to show incremental development on our assignments, with short commit messages to summarize our work at each stage. We are also using GitHub for collaboration with our peers on the course projects, so as to have consistency across our work. 
